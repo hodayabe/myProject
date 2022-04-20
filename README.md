@@ -1,3 +1,3 @@
-# Demo repository for learning  Git
+# Demo repository for learning  Git AJBC
 
-hear you shuod add 
+hear you should add your project description
